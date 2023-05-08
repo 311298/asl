@@ -1,0 +1,46 @@
+{
+  "tableData": [
+    {
+      "id": 1,
+      "fullName": "Name one",
+      "age": 20,
+      "employed": false
+    },
+    {
+      "id": 2,
+      "fullName": "Name two",
+      "age": 21,
+      "employed": true
+    },
+    {
+      "id": 3,
+      "fullName": "Name three",
+      "age": 20,
+      "employed": true
+    },
+    {
+      "id": 4,
+      "fullName": "Name four",
+      "age": 22,
+      "employed": true
+    },
+    {
+      "id": 5,
+      "fullName": "Name five",
+      "age": 20,
+      "employed": false
+    },
+    {
+      "id": 6,
+      "fullName": "Name six",
+      "age": 10,
+      "employed": false
+    },
+    {
+      "id": 7,
+      "fullName": "Name seven",
+      "age": 30,
+      "employed": false
+    }
+  ]
+}
